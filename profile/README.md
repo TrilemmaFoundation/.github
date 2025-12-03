@@ -1,6 +1,8 @@
-Trilemma Foundation is a Canadian registered charity that empowers technical talent through global university partnerships, open-source collaboration, and performance-based opportunities. Since our inception, we’ve worked with 80+ universities that serve as hubs to engage and support talent worldwide. Our mission is to enable anyone with an internet connection to demonstrate their technical ability in a transparent and verifiable way.
+Trilemma Foundation is a non profit and Canadian registered charity that incubates technical talent through global university partnerships, open source collaboration, and performance based opportunities. Since our inception, we have worked with over 80 universities worldwide that serve as hubs for discovering, engaging, and empowering top technical talent.
 
-This structure allows us to operate as an R&D lab, where we test bold ideas, learn from setbacks, and explore sustainable models to maximize impact.
+Our mission is to enable the brightest minds to rise based on performance.
+
+To support this mission, we operate as a data-driven R&D lab. We explore bold ideas, develop tools, and run open source projects that provide hands on experience to anyone with internet access. This structure allows us to generate positive externalities such as job placements, data-driven innovation, startup development, and broader ecosystem impact by focusing on talent first.
 
 🌐 [Website](https://www.trilemma.foundation)  
 💡 [LinkedIn](https://www.linkedin.com/company/trilemma-foundation)  
